@@ -19,6 +19,5 @@ describe Solver do
     it 'should return "22" for 22' do
       expect(solver.fizzbuzz(22)).to eql('22')
     end
-
   end
 end
