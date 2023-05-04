@@ -19,5 +19,9 @@ describe Solver do
     it 'factorial 1 should be 1' do
       expect(solver.factorial(1)).to eq(1)
     end
+
+    it 'factorial -3 should raise an argument error' do
+      expect { solver.factorial(-3) }.to raise_error(ArgumentError, 'Cannot calculate factorial for a negative number')
+    end
   end
 end

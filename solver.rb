@@ -16,6 +16,8 @@ class Solver
   end
 
   def factorial(num)
+    raise ArgumentError, 'Cannot calculate factorial for a negative number' if num.negative?
+
     result = 1
     while num >= 1
       result *= num
