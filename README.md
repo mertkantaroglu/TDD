@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 School Library App ](#-school-library-app-)
+- [📖 TDD Project ](#-tdd-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -12,6 +12,7 @@
     - [Usage ](#usage-)
   - [👥 Authors ](#-authors-)
     - [👤 **Mert Kantaroglu**](#-mert-kantaroglu)
+    - [👤 **Josue Rushanika**](#-josue-rushanika)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -20,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 School Library App <a name="about-project"></a>
+# 📖 TDD Project <a name="about-project"></a>
 
-**School Library App** is an app designed with Ruby where you can add teachers, students, books and see books' borrowing records.
+**TDD Project** is a project where we implemented Test Driven Development using Ruby and RSpec.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,7 +40,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Library Record Keeping**
+- **Fizzbuzz challenge**
+- **Reverse a string**
+- **calculate Factorial of a number**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,20 +66,20 @@ Clone this repository to your desired folder:
 
 ```sh
   cd <desired-folder>
-  git clone https://github.com/mertkantaroglu/School-Library-App.git
+  git clone https://github.com/mertkantaroglu/TDD.git
 ```
 
 ### Install <a name="install"></a>
 
 ```sh
-  cd School-Library-App
+  cd TDD
   bundle install
 ```
 
 ### Usage <a name="usage"></a>
 
 ```sh
-  ruby person.rb
+  ruby solver.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -91,13 +94,19 @@ Clone this repository to your desired folder:
 - Twitter: [@aranelluinwe](https://twitter.com/aranelluinwe)
 - LinkedIn: [mertkantaroglu](https://www.linkedin.com/in/mert-kantaroglu/)
 
+### 👤 **Josue Rushanika**
+
+- GitHub: [@josuerushanika](https://github.com/josuerushanika)
+- Twitter: [@josuerushanika](https://twitter.com/josuerushanika)
+- LinkedIn: [josuerushanika](https://www.linkedin.com/in/josue-rushanika-336049b3/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Creating advanced UI
+- [ ] Adding more methods
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
