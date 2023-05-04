@@ -14,4 +14,13 @@ class Solver
   def reverse(string)
     string.reverse
   end
+
+  def factorial(num)
+    result = 1
+    while num >= 1
+      result *= num
+      num -= 1
+    end
+    result
+  end
 end
